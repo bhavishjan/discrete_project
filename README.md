@@ -5,4 +5,4 @@ I used different python libraries and tools to get reports regarding how price c
 
 For detailed infromation, see the Report.pdf.
 
-I would like to thank Dr. Muhammad Arshad Islam (HoD Computer Science, FAST NUCES Islamabad) for teaching me this course.
+I would like to thank Dr. Muhammad Arshad Islam for teaching me this course.
