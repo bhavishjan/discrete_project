@@ -1,0 +1,163 @@
+year,item,centrality_type,score
+2023,Sufi Washing Soap 250 gm Cake,degree,0.8113207547169811
+2023,Milk fresh (Un-boiled),degree,0.6981132075471698
+2023,Lawn Printed Gul Ahmed/Al Karam,degree,0.6981132075471698
+2023,Beef with Bone (Average Quality),degree,0.6792452830188679
+2023,Cooked Daal at Average Hotel,degree,0.6792452830188679
+2023,Gents Sandal Bata,degree,0.6792452830188679
+2023,Match Box,degree,0.6792452830188679
+2023,Mutton (Average Quality),degree,0.6792452830188679
+2023,Shirting (Average Quality),degree,0.6792452830188679
+2023,Bread plain (Small Size),degree,0.660377358490566
+2023,Curd (Dahi) Loose,degree,0.660377358490566
+2023,Firewood Whole,degree,0.660377358490566
+2023,Ladies Sandal Bata,degree,0.660377358490566
+2023,Salt Powdered (NATIONAL/SHAN) 80,degree,0.660377358490566
+2023,Cooked Beef at Average Hotel,degree,0.6415094339622641
+2023,Georgette (Average Quality),degree,0.6415094339622641
+2023,"Long Cloth 57"" Gul Ahmed/Al Karam",degree,0.6415094339622641
+2023,Pulse Gram,degree,0.6415094339622641
+2023,Pulse Mash (Washed),degree,0.6415094339622641
+2023,Pulse Moong (Washed),degree,0.6415094339622641
+2023,Tea Prepared Ordinary,degree,0.6415094339622641
+2023,LPG 11.67 kg Cylinder,degree,0.6415094339622641
+2023,Energy Saver Philips 14 Watt,degree,0.6415094339622641
+2023,Gur (Average Quality),degree,0.6415094339622641
+2023,Garlic (Lehsun),degree,0.6226415094339622
+2023,Rice IRRI-6/9 (Sindh/Punjab),degree,0.6226415094339622
+2023,Cigarettes Capstan 20'S Packet,degree,0.6037735849056604
+2023,Gas Charges upto 3.3719 MMBTU,degree,0.6037735849056604
+2023,Toilet Soap LIFEBUOY 115 gm,degree,0.6037735849056604
+2023,Pulse Masoor (Washed),degree,0.6037735849056604
+2023,Powdered Milk NIDO 390 gm Polybag,degree,0.5849056603773585
+2023,Onions,degree,0.5660377358490566
+2023,Chilies Powder NATIONAL 200 gm Pa,degree,0.5094339622641509
+2023,Chicken Farm Broiler (Live),degree,0.4528301886792453
+2023,Potatoes,degree,0.3962264150943396
+2023,Rice Basmati Broken (Average Qualit,degree,0.3773584905660377
+2023,Tomatoes,degree,0.32075471698113206
+2023,Rice Basmati Broken (Average Quality,degree,0.32075471698113206
+2023,Gents Sponge Chappal Bata,degree,0.2641509433962264
+2023,Eggs Hen (Farm),degree,0.18867924528301885
+2023,Tea Lipton Yellow Label 190 gm Pack,degree,0.18867924528301885
+2023,Cooking Oil DALDA or Other Similar,degree,0.16981132075471697
+2023,Sugar Refined,degree,0.1509433962264151
+2023,Vegetable Ghee DALDA/HABIB or Ot,degree,0.1320754716981132
+2023,Cooking Oil DALDA or Other Similar B,degree,0.11320754716981132
+2023,Mustard Oil (Average Quality),degree,0.11320754716981132
+2023,Wheat Flour Bag,degree,0.11320754716981132
+2023,Electricity Charges upto 50 Units,degree,0.11320754716981132
+2023,Bananas (Kela) Local,degree,0.09433962264150943
+2023,Vegetable Ghee DALDA/HABIB 2.5 kg,degree,0.09433962264150943
+2023,Hi-Speed Diesel,degree,0.09433962264150943
+2023,Petrol Super,degree,0.09433962264150943
+2023,Vegetable Ghee DALDA/HABIB or Oth,degree,0.07547169811320754
+2023,Powdered Milk NIDO 390 gm Polyba,degree,0.018867924528301886
+2023,Sufi Washing Soap 250 gm Cake,closeness,0.803030303030303
+2023,Bread plain (Small Size),closeness,0.7361111111111112
+2023,Milk fresh (Un-boiled),closeness,0.7162162162162162
+2023,Lawn Printed Gul Ahmed/Al Karam,closeness,0.7162162162162162
+2023,Beef with Bone (Average Quality),closeness,0.7066666666666667
+2023,Cooked Daal at Average Hotel,closeness,0.7066666666666667
+2023,Gents Sandal Bata,closeness,0.7066666666666667
+2023,Match Box,closeness,0.7066666666666667
+2023,Mutton (Average Quality),closeness,0.7066666666666667
+2023,Shirting (Average Quality),closeness,0.7066666666666667
+2023,Curd (Dahi) Loose,closeness,0.6973684210526315
+2023,Firewood Whole,closeness,0.6973684210526315
+2023,Ladies Sandal Bata,closeness,0.6973684210526315
+2023,"Long Cloth 57"" Gul Ahmed/Al Karam",closeness,0.6973684210526315
+2023,Salt Powdered (NATIONAL/SHAN) 80,closeness,0.6973684210526315
+2023,LPG 11.67 kg Cylinder,closeness,0.6973684210526315
+2023,Cooked Beef at Average Hotel,closeness,0.6883116883116883
+2023,Georgette (Average Quality),closeness,0.6883116883116883
+2023,Pulse Gram,closeness,0.6883116883116883
+2023,Pulse Mash (Washed),closeness,0.6883116883116883
+2023,Pulse Moong (Washed),closeness,0.6883116883116883
+2023,Tea Prepared Ordinary,closeness,0.6883116883116883
+2023,Rice IRRI-6/9 (Sindh/Punjab),closeness,0.6883116883116883
+2023,Garlic (Lehsun),closeness,0.6794871794871795
+2023,Cigarettes Capstan 20'S Packet,closeness,0.6708860759493671
+2023,Gas Charges upto 3.3719 MMBTU,closeness,0.6708860759493671
+2023,Toilet Soap LIFEBUOY 115 gm,closeness,0.6708860759493671
+2023,Pulse Masoor (Washed),closeness,0.6708860759493671
+2023,Powdered Milk NIDO 390 gm Polybag,closeness,0.6625
+2023,Energy Saver Philips 14 Watt,closeness,0.6625
+2023,Gur (Average Quality),closeness,0.6625
+2023,Onions,closeness,0.654320987654321
+2023,Chilies Powder NATIONAL 200 gm Pa,closeness,0.6385542168674698
+2023,Rice Basmati Broken (Average Qualit,closeness,0.5824175824175825
+2023,Chicken Farm Broiler (Live),closeness,0.5760869565217391
+2023,Rice Basmati Broken (Average Quality,closeness,0.5638297872340425
+2023,Potatoes,closeness,0.5578947368421052
+2023,Gents Sponge Chappal Bata,closeness,0.5353535353535354
+2023,Cooking Oil DALDA or Other Similar,closeness,0.53
+2023,Tomatoes,closeness,0.53
+2023,Tea Lipton Yellow Label 190 gm Pack,closeness,0.5247524752475248
+2023,Eggs Hen (Farm),closeness,0.5196078431372549
+2023,Wheat Flour Bag,closeness,0.5196078431372549
+2023,Electricity Charges upto 50 Units,closeness,0.5196078431372549
+2023,Vegetable Ghee DALDA/HABIB or Ot,closeness,0.5145631067961165
+2023,Bananas (Kela) Local,closeness,0.5096153846153846
+2023,Sugar Refined,closeness,0.4953271028037383
+2023,Mustard Oil (Average Quality),closeness,0.4818181818181818
+2023,Hi-Speed Diesel,closeness,0.452991452991453
+2023,Petrol Super,closeness,0.4491525423728814
+2023,Cooking Oil DALDA or Other Similar B,closeness,0.38686131386861317
+2023,Vegetable Ghee DALDA/HABIB 2.5 kg,closeness,0.375886524822695
+2023,Vegetable Ghee DALDA/HABIB or Oth,closeness,0.34868421052631576
+2023,Powdered Milk NIDO 390 gm Polyba,closeness,0.25980392156862747
+2023,Sufi Washing Soap 250 gm Cake,betweenness,0.10861738877698904
+2023,Bread plain (Small Size),betweenness,0.10023330567190868
+2023,Mustard Oil (Average Quality),betweenness,0.062344248649057625
+2023,Rice IRRI-6/9 (Sindh/Punjab),betweenness,0.041413061388028916
+2023,Vegetable Ghee DALDA/HABIB or Oth,betweenness,0.03773584905660378
+2023,Lawn Printed Gul Ahmed/Al Karam,betweenness,0.03489759558684289
+2023,LPG 11.67 kg Cylinder,betweenness,0.03211167756210649
+2023,Cooking Oil DALDA or Other Similar,betweenness,0.0203919623939391
+2023,Chilies Powder NATIONAL 200 gm Pa,betweenness,0.020226734384797607
+2023,Electricity Charges upto 50 Units,betweenness,0.019565362459341876
+2023,Cooking Oil DALDA or Other Similar B,betweenness,0.01917350721121621
+2023,Pulse Masoor (Washed),betweenness,0.01910140554625967
+2023,Gur (Average Quality),betweenness,0.017919524666757895
+2023,Wheat Flour Bag,betweenness,0.017090274709438708
+2023,"Long Cloth 57"" Gul Ahmed/Al Karam",betweenness,0.012932236742622383
+2023,Vegetable Ghee DALDA/HABIB or Ot,betweenness,0.01187418899660674
+2023,Milk fresh (Un-boiled),betweenness,0.011661285603956762
+2023,Bananas (Kela) Local,betweenness,0.009092595517848816
+2023,Toilet Soap LIFEBUOY 115 gm,betweenness,0.008800458317016424
+2023,Powdered Milk NIDO 390 gm Polybag,betweenness,0.007983128413638104
+2023,Shirting (Average Quality),betweenness,0.007570449102364493
+2023,Rice Basmati Broken (Average Quality,betweenness,0.007303495190185889
+2023,Cooked Daal at Average Hotel,betweenness,0.00633337559507287
+2023,Match Box,betweenness,0.006308270175331542
+2023,Tea Lipton Yellow Label 190 gm Pack,betweenness,0.005707526543345639
+2023,Rice Basmati Broken (Average Qualit,betweenness,0.005589424674435863
+2023,Sugar Refined,betweenness,0.005511881669510279
+2023,Vegetable Ghee DALDA/HABIB 2.5 kg,betweenness,0.005446881922393003
+2023,Potatoes,betweenness,0.0049605751752010655
+2023,Gents Sandal Bata,betweenness,0.004891910942778674
+2023,Gas Charges upto 3.3719 MMBTU,betweenness,0.004492262968540576
+2023,Curd (Dahi) Loose,betweenness,0.0044527724287119425
+2023,Ladies Sandal Bata,betweenness,0.004407646631968978
+2023,Beef with Bone (Average Quality),betweenness,0.004280055423423674
+2023,Mutton (Average Quality),betweenness,0.004280055423423674
+2023,Garlic (Lehsun),betweenness,0.004232298541637144
+2023,Eggs Hen (Farm),betweenness,0.004082696825802776
+2023,Energy Saver Philips 14 Watt,betweenness,0.004069133416779866
+2023,Firewood Whole,betweenness,0.0033993167625868755
+2023,Salt Powdered (NATIONAL/SHAN) 80,betweenness,0.003347888871859871
+2023,Georgette (Average Quality),betweenness,0.003303357777096955
+2023,Tea Prepared Ordinary,betweenness,0.003210730809024195
+2023,Pulse Gram,betweenness,0.0031969714005898454
+2023,Cooked Beef at Average Hotel,betweenness,0.0028689990016874272
+2023,Cigarettes Capstan 20'S Packet,betweenness,0.002401679327713537
+2023,Pulse Mash (Washed),betweenness,0.002219975092102906
+2023,Gents Sponge Chappal Bata,betweenness,0.0021752172889077806
+2023,Pulse Moong (Washed),betweenness,0.002170885193632877
+2023,Chicken Farm Broiler (Live),betweenness,0.0015523927154314254
+2023,Hi-Speed Diesel,betweenness,0.000975626598684548
+2023,Onions,betweenness,0.0005992932284116834
+2023,Petrol Super,betweenness,0.0005287165664524155
+2023,Tomatoes,betweenness,0.00043994868837903087
+2023,Powdered Milk NIDO 390 gm Polyba,betweenness,0.0
